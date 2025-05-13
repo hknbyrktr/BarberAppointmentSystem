@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 70dcdb0182766b6418b4b3d74a13e7c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Y\xFCkleniyor_Sol"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 44
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780832d88473294c802069d0f6720c5
+      internalID: -1803726034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Y\xFCkleniyor_Sa\u011F"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 191
+        width: 44
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3959c670183e1e340be057798f9f1abb
+      internalID: 2061132302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Y\xFCkleniyor_SolKutu"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 225
+        width: 68
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a034fe4f04cb6af4b84eb635bf54441a
+      internalID: 415742566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Y\xFCkleniyor_Sa\u011FKutu"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 68
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe0c597b9435604da33e1aa6032b019
+      internalID: -2142703903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Y\xFCkleniyor_0": -2092053373
+      "Y\xFCkleniyor_1": -1515990230
+      "Y\xFCkleniyor_10": -1346604950
+      "Y\xFCkleniyor_100": 424969416
+      "Y\xFCkleniyor_101": -1316796122
+      "Y\xFCkleniyor_102": 759171871
+      "Y\xFCkleniyor_103": -905205181
+      "Y\xFCkleniyor_104": 1489549099
+      "Y\xFCkleniyor_105": -1500052417
+      "Y\xFCkleniyor_106": -1742071100
+      "Y\xFCkleniyor_107": -1230564521
+      "Y\xFCkleniyor_108": 1929848480
+      "Y\xFCkleniyor_109": -1033246340
+      "Y\xFCkleniyor_11": 572262413
+      "Y\xFCkleniyor_110": -1718422314
+      "Y\xFCkleniyor_111": 884368165
+      "Y\xFCkleniyor_112": 2121870416
+      "Y\xFCkleniyor_113": -1815900731
+      "Y\xFCkleniyor_114": -1219871255
+      "Y\xFCkleniyor_12": -860747030
+      "Y\xFCkleniyor_13": -679971366
+      "Y\xFCkleniyor_14": -358004365
+      "Y\xFCkleniyor_15": -2099576886
+      "Y\xFCkleniyor_16": -179600393
+      "Y\xFCkleniyor_17": 1287278356
+      "Y\xFCkleniyor_18": -467235176
+      "Y\xFCkleniyor_19": -806469277
+      "Y\xFCkleniyor_20": -2013284799
+      "Y\xFCkleniyor_21": 2081697757
+      "Y\xFCkleniyor_22": 1704545768
+      "Y\xFCkleniyor_23": -11489749
+      "Y\xFCkleniyor_24": 747120418
+      "Y\xFCkleniyor_25": -410608038
+      "Y\xFCkleniyor_26": -977841951
+      "Y\xFCkleniyor_27": -224276716
+      "Y\xFCkleniyor_28": -1432890622
+      "Y\xFCkleniyor_29": -1817721584
+      "Y\xFCkleniyor_30": -1700494082
+      "Y\xFCkleniyor_31": 1278003431
+      "Y\xFCkleniyor_32": -1069404767
+      "Y\xFCkleniyor_33": -469989404
+      "Y\xFCkleniyor_34": -103414245
+      "Y\xFCkleniyor_35": -27758085
+      "Y\xFCkleniyor_36": -443794716
+      "Y\xFCkleniyor_37": 1435887048
+      "Y\xFCkleniyor_38": -1171481932
+      "Y\xFCkleniyor_39": 1042771215
+      "Y\xFCkleniyor_4": -487085865
+      "Y\xFCkleniyor_40": -1316894252
+      "Y\xFCkleniyor_41": 1247066157
+      "Y\xFCkleniyor_42": 1637090387
+      "Y\xFCkleniyor_43": -1199519188
+      "Y\xFCkleniyor_44": 1254669400
+      "Y\xFCkleniyor_45": -1010370296
+      "Y\xFCkleniyor_46": 1452849533
+      "Y\xFCkleniyor_47": 151475437
+      "Y\xFCkleniyor_48": -1904742635
+      "Y\xFCkleniyor_49": -1152872607
+      "Y\xFCkleniyor_50": 1503901935
+      "Y\xFCkleniyor_51": -1768496540
+      "Y\xFCkleniyor_52": 1352978683
+      "Y\xFCkleniyor_53": -1450255842
+      "Y\xFCkleniyor_54": 1422583957
+      "Y\xFCkleniyor_55": -1214968077
+      "Y\xFCkleniyor_56": 1188959682
+      "Y\xFCkleniyor_59": 951783678
+      "Y\xFCkleniyor_6": 1168838647
+      "Y\xFCkleniyor_60": -645159795
+      "Y\xFCkleniyor_61": 777631866
+      "Y\xFCkleniyor_62": 500899163
+      "Y\xFCkleniyor_63": 403097571
+      "Y\xFCkleniyor_64": 1619855364
+      "Y\xFCkleniyor_65": -1613488770
+      "Y\xFCkleniyor_66": -4698974
+      "Y\xFCkleniyor_67": 842084401
+      "Y\xFCkleniyor_68": 1138831515
+      "Y\xFCkleniyor_69": -41119468
+      "Y\xFCkleniyor_7": -851053128
+      "Y\xFCkleniyor_70": 991212507
+      "Y\xFCkleniyor_71": 1288177711
+      "Y\xFCkleniyor_72": 2051854637
+      "Y\xFCkleniyor_73": 1703032539
+      "Y\xFCkleniyor_74": 591962326
+      "Y\xFCkleniyor_75": -2119552496
+      "Y\xFCkleniyor_76": -2115597781
+      "Y\xFCkleniyor_77": -2056526343
+      "Y\xFCkleniyor_78": 737054895
+      "Y\xFCkleniyor_79": -887805656
+      "Y\xFCkleniyor_8": 753578891
+      "Y\xFCkleniyor_80": 1087916674
+      "Y\xFCkleniyor_81": -555534224
+      "Y\xFCkleniyor_82": -464077165
+      "Y\xFCkleniyor_83": 416885024
+      "Y\xFCkleniyor_84": -1827360283
+      "Y\xFCkleniyor_85": 2045761898
+      "Y\xFCkleniyor_86": -73438827
+      "Y\xFCkleniyor_87": 180369995
+      "Y\xFCkleniyor_88": 1182621800
+      "Y\xFCkleniyor_89": 501170481
+      "Y\xFCkleniyor_9": 1212390164
+      "Y\xFCkleniyor_90": -1499141183
+      "Y\xFCkleniyor_91": 432937092
+      "Y\xFCkleniyor_92": 2077777569
+      "Y\xFCkleniyor_93": -637842931
+      "Y\xFCkleniyor_94": 1622061182
+      "Y\xFCkleniyor_95": -797556239
+      "Y\xFCkleniyor_96": -227938244
+      "Y\xFCkleniyor_97": 198452170
+      "Y\xFCkleniyor_98": -354202869
+      "Y\xFCkleniyor_99": 1765756823
+      "Y\xFCkleniyor_Sa\u011F": 2061132302
+      "Y\xFCkleniyor_Sa\u011FKutu": -2142703903
+      "Y\xFCkleniyor_Sol": -1803726034
+      "Y\xFCkleniyor_SolKutu": 415742566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

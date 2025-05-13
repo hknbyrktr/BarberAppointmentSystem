@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 9d333b7c9b49a0a46bb575007d6eed52
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colorful_game_buttons_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1921
+        width: 688
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34ae6f2028c744a97553deecb09a17
+      internalID: -2069644402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful_game_buttons_6
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1920
+        width: 720
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6833110b53ab4286007e4d2d51be5
+      internalID: 1858670044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful_game_buttons_7
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1921
+        width: 693
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e9b5d704a0fde4ea2b9862f3a80b90
+      internalID: 840823418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful_game_buttons_39
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1043
+        width: 693
+        height: 714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d665cd4a7f8a584f9d773e133ced0fc
+      internalID: -1387320078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful_game_buttons_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1043
+        width: 687
+        height: 691
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee4c5c803ac4b4e81b548c3cda8d85
+      internalID: 971605300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful_game_buttons_45
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1041
+        width: 693
+        height: 693
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d4529efeb80d94db21ac0309f4f3bf
+      internalID: -1744754455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful_game_buttons_91
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 162
+        width: 692
+        height: 693
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c6c5e2b13d41448f8b0482cd07bad
+      internalID: -2145734946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful_game_buttons_93
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 160
+        width: 693
+        height: 693
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad887676cef59c4baf6e09bf89e2345
+      internalID: 1935497416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful_game_buttons_95
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 161
+        width: 693
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 240, y: 240, z: 240, w: 240}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6c23da7946ab40b31b7c8320f80d5
+      internalID: 332144498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Colorful_game_buttons_0: 1109011742
+      Colorful_game_buttons_1: -1346490806
+      Colorful_game_buttons_10: 542315631
+      Colorful_game_buttons_100: -863864288
+      Colorful_game_buttons_101: 1847040614
+      Colorful_game_buttons_102: -513512157
+      Colorful_game_buttons_103: -2144832884
+      Colorful_game_buttons_104: -1401659498
+      Colorful_game_buttons_105: 2035072551
+      Colorful_game_buttons_106: 970916048
+      Colorful_game_buttons_107: -580352153
+      Colorful_game_buttons_108: -600053845
+      Colorful_game_buttons_109: -1795201021
+      Colorful_game_buttons_11: 644209671
+      Colorful_game_buttons_110: 1557610499
+      Colorful_game_buttons_111: -2581494
+      Colorful_game_buttons_112: -125933258
+      Colorful_game_buttons_113: -1551673471
+      Colorful_game_buttons_114: 50497866
+      Colorful_game_buttons_115: -1376663616
+      Colorful_game_buttons_116: -1965556577
+      Colorful_game_buttons_117: 829990842
+      Colorful_game_buttons_118: -253532221
+      Colorful_game_buttons_12: -2035335479
+      Colorful_game_buttons_13: 15662380
+      Colorful_game_buttons_14: 19275295
+      Colorful_game_buttons_15: -741165273
+      Colorful_game_buttons_16: 1356865196
+      Colorful_game_buttons_17: -1859223378
+      Colorful_game_buttons_18: -1108726581
+      Colorful_game_buttons_19: 945308764
+      Colorful_game_buttons_2: 117132453
+      Colorful_game_buttons_20: -1289075625
+      Colorful_game_buttons_21: -1083673435
+      Colorful_game_buttons_22: -509207596
+      Colorful_game_buttons_23: 1375829752
+      Colorful_game_buttons_24: 1084648184
+      Colorful_game_buttons_25: -1077413182
+      Colorful_game_buttons_26: 1760310981
+      Colorful_game_buttons_27: -297423499
+      Colorful_game_buttons_28: 548671559
+      Colorful_game_buttons_29: 245958580
+      Colorful_game_buttons_3: 896553233
+      Colorful_game_buttons_30: -363431142
+      Colorful_game_buttons_31: -491259599
+      Colorful_game_buttons_32: 1031397263
+      Colorful_game_buttons_33: -1502249972
+      Colorful_game_buttons_34: -505185144
+      Colorful_game_buttons_35: -445770296
+      Colorful_game_buttons_36: 1178440766
+      Colorful_game_buttons_37: -149525030
+      Colorful_game_buttons_38: 1890934558
+      Colorful_game_buttons_39: -1387320078
+      Colorful_game_buttons_4: -2069644402
+      Colorful_game_buttons_40: 2035109263
+      Colorful_game_buttons_41: 1441537415
+      Colorful_game_buttons_42: 1314143970
+      Colorful_game_buttons_43: 971605300
+      Colorful_game_buttons_44: -515767226
+      Colorful_game_buttons_45: -1744754455
+      Colorful_game_buttons_46: 2134688555
+      Colorful_game_buttons_47: -2038566153
+      Colorful_game_buttons_48: -826214761
+      Colorful_game_buttons_49: -1937874261
+      Colorful_game_buttons_5: -1025794897
+      Colorful_game_buttons_50: 1333976790
+      Colorful_game_buttons_51: -930696769
+      Colorful_game_buttons_52: -365370265
+      Colorful_game_buttons_53: 392348870
+      Colorful_game_buttons_54: 1730588667
+      Colorful_game_buttons_55: 180515056
+      Colorful_game_buttons_56: -205692754
+      Colorful_game_buttons_57: -1247767925
+      Colorful_game_buttons_58: 153646985
+      Colorful_game_buttons_59: -1275743882
+      Colorful_game_buttons_6: 1858670044
+      Colorful_game_buttons_60: 1187280238
+      Colorful_game_buttons_61: 1933567290
+      Colorful_game_buttons_62: -7827928
+      Colorful_game_buttons_63: -576018474
+      Colorful_game_buttons_64: 557821476
+      Colorful_game_buttons_65: 1733233665
+      Colorful_game_buttons_66: -1373263013
+      Colorful_game_buttons_67: -1352460496
+      Colorful_game_buttons_68: -22096994
+      Colorful_game_buttons_69: -2108657966
+      Colorful_game_buttons_7: 840823418
+      Colorful_game_buttons_70: -2054441918
+      Colorful_game_buttons_71: -418319650
+      Colorful_game_buttons_72: -2092713435
+      Colorful_game_buttons_73: -301852489
+      Colorful_game_buttons_74: -1225301232
+      Colorful_game_buttons_75: -1834611602
+      Colorful_game_buttons_76: 1176693827
+      Colorful_game_buttons_77: 1222082324
+      Colorful_game_buttons_78: 1194424739
+      Colorful_game_buttons_79: 1926134949
+      Colorful_game_buttons_8: 6184514
+      Colorful_game_buttons_80: 642438208
+      Colorful_game_buttons_81: 1888816872
+      Colorful_game_buttons_82: -2089212492
+      Colorful_game_buttons_83: -36142427
+      Colorful_game_buttons_84: -118570941
+      Colorful_game_buttons_85: -196161260
+      Colorful_game_buttons_86: -826104761
+      Colorful_game_buttons_87: -4545781
+      Colorful_game_buttons_88: -1610058788
+      Colorful_game_buttons_89: 1702253873
+      Colorful_game_buttons_9: 275290187
+      Colorful_game_buttons_90: -1741920026
+      Colorful_game_buttons_91: -2145734946
+      Colorful_game_buttons_92: 1150534271
+      Colorful_game_buttons_93: 1935497416
+      Colorful_game_buttons_94: -291258875
+      Colorful_game_buttons_95: 332144498
+      Colorful_game_buttons_96: 797796329
+      Colorful_game_buttons_97: 1856671754
+      Colorful_game_buttons_98: -689627454
+      Colorful_game_buttons_99: 2114809320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
