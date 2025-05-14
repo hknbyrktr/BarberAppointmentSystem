@@ -3,6 +3,8 @@
 # 💈 Unity Barber Appointment System
 
 This project is a **barbershop appointment system** built using **Unity** for the front-end and **MySQL + PHP** for the back-end.
+I did the front-end (Unity) of this project given by our university professor, my friend did the back-end (MySQL). I did PHP with GPT :)
+Of course there are deficiencies in this project that we did in about a week. You can reach the details below or by downloading. Good luck.
 
 ## 📁 Project Structure
 ---
@@ -13,7 +15,6 @@ This project is a **barbershop appointment system** built using **Unity** for th
 - PHP (for backend API)
 - MySQL (database)
 - XAMPP (local server for testing)
-- Postman (for API testing)
 
 
 ## 🚀 How to Run
@@ -31,7 +32,8 @@ This project is a **barbershop appointment system** built using **Unity** for th
 2. Make sure the IP address in API URLs points to your local server IP (e.g., `http://192.168.1.100/api/...`).
 3. Run the app in Unity or build it for Android/Windows.
 4. Download "DOTween (HOTween v2)" from Package Manager (free)
-5. You can use some assets from Kenny (https://kenney.nl/assets/ui-pack)
+5. Author of Multi Touch Scroll Rect (You can also use normal scrollrect, but this is my choice for the phone.): https://stackoverflow.com/questions/56221113/fix-for-scrollrect-multi-touch-in-unity/74451909#74451909
+6. You can use some assets from Kenny (https://kenney.nl/assets/ui-pack)
 
 
 ## 🧪 Features
@@ -40,7 +42,6 @@ This project is a **barbershop appointment system** built using **Unity** for th
 - Appointment listing & booking
 - Barber rating and comment system
 - Available times shown dynamically
-- Admin-side user and barber control (optional)
 
 
 ## 📸 Screenshots
