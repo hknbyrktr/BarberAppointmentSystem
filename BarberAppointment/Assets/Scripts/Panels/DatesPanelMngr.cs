@@ -55,7 +55,7 @@ public class DatesPanelMngr : MonoBehaviour
     {
         AppManager.Instance.barberID = barberID;
 
-        UnityWebRequest request = UnityWebRequest.Get("https://henka.test/APIs/get_dates.php?barberID=" + barberID);
+        UnityWebRequest request = UnityWebRequest.Get("https://target_Ip/api/get_dates.php?barberID=" + barberID);
 
         yield return request.SendWebRequest();
 
