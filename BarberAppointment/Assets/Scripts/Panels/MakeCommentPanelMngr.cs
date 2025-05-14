@@ -104,7 +104,7 @@ public class MakeCommentPanelMngr : MonoBehaviour
         form.AddField("commentDate", DateTime.Now.Date.ToString("yyyy-MM-dd"));
         form.AddField("barberPoint", point);
 
-        UnityWebRequest request = UnityWebRequest.Post("https://henka.test/APIs/add_comment.php", form);
+        UnityWebRequest request = UnityWebRequest.Post("https://target_Ip/api/add_comment.php", form);
         yield return request.SendWebRequest();
 
         if (request.result == UnityWebRequest.Result.Success)
