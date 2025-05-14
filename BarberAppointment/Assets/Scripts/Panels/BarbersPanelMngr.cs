@@ -40,7 +40,7 @@ public class BarbersPanelMngr : MonoBehaviour
 
     IEnumerator GetBarbers()
     {
-        UnityWebRequest request = UnityWebRequest.Get("https://henka.test/APIs/get_berbers.php");
+        UnityWebRequest request = UnityWebRequest.Get("https://target_Ip/api/get_berbers.php");
         yield return request.SendWebRequest();
 
         if (request.result == UnityWebRequest.Result.Success)
