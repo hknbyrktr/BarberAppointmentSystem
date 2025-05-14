@@ -38,7 +38,7 @@ public class TimesPanelMngr : MonoBehaviour
         form.AddField("appointmentDate", appointmentDate);
         form.AddField("barberID", barberID);
 
-        UnityWebRequest request = UnityWebRequest.Post("https://henka.test/APIs/get_times.php", form);                                           // Url'yi uzatmasin diye Post ile yaptik.
+        UnityWebRequest request = UnityWebRequest.Post("https://target_Ip/api/get_times.php", form);                                           // Url'yi uzatmasin diye Post ile yaptik.
         yield return request.SendWebRequest();
 
         if (request.result == UnityWebRequest.Result.Success)
