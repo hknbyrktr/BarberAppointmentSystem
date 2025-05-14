@@ -58,7 +58,7 @@ public class ProfileMngr : MonoBehaviour
     {
 
         string userName = PlayerPrefs.GetString("userName");
-        UnityWebRequest request = UnityWebRequest.Get("https://henka.test/APIs/get_customer_info.php?userName=" + userName);
+        UnityWebRequest request = UnityWebRequest.Get("https://target_Ip/api/get_customer_info.php?userName=" + userName);
 
         yield return request.SendWebRequest();
 
