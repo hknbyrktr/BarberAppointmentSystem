@@ -2,7 +2,7 @@
 
 # 💈 Unity Barber Appointment System
 
-This project is a **barbershop appointment system** built using **Unity** for the front-end and **MySQL + PHP** for the back-end. Users can view and book appointments, while barbers can manage their schedules.
+This project is a **barbershop appointment system** built using **Unity** for the front-end and **MySQL + PHP** for the back-end.
 
 ## 📁 Project Structure
 ---
@@ -30,6 +30,8 @@ This project is a **barbershop appointment system** built using **Unity** for th
 1. Open `/BarberAppointment` in Unity Editor.
 2. Make sure the IP address in API URLs points to your local server IP (e.g., `http://192.168.1.100/api/...`).
 3. Run the app in Unity or build it for Android/Windows.
+4. Download "DOTween (HOTween v2)" from Package Manager (free)
+5. You can use some assets from Kenny (https://kenney.nl/assets/ui-pack)
 
 
 ## 🧪 Features
@@ -43,8 +45,14 @@ This project is a **barbershop appointment system** built using **Unity** for th
 
 ## 📸 Screenshots
 
-(Add 2–3 screenshots of the Unity UI or database/API in action)
-
+![Entrance](Screenshots/Entrance.jpg)
+![Barbers](Screenshots/Barbers.jpg)
+![Appointment Dates](Screenshots/AppointmentDates.jpg)
+![Services](Screenshots/Services.jpg)
+![Comments For Barber](Screenshots/CommentsForBarber.jpg)
+![Make Comment For Barber](Screenshots/MakeComment.jpg)
+![ProfileInfo](Screenshots/ProfileInfo.jpg)
+![User Appointments](Screenshots/MyAppointment.jpg)
 
 ## 📄 License - MIT
 
