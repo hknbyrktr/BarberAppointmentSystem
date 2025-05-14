@@ -49,7 +49,7 @@ public class CommentsPanelMngr : MonoBehaviour
     public IEnumerator CommentsForBarberCreate()
     {
 
-        UnityWebRequest request = UnityWebRequest.Get("https://henka.test/APIs/get.comments.php?barberID=" + AppManager.Instance.barberID);
+        UnityWebRequest request = UnityWebRequest.Get("https://target_Ip/api/get.comments.php?barberID=" + AppManager.Instance.barberID);
 
         yield return request.SendWebRequest();
 
