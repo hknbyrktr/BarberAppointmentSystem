@@ -53,7 +53,7 @@ public class MyAppointmentMngr : MonoBehaviour
 
         string userName = PlayerPrefs.GetString("userName");
 
-        UnityWebRequest request = UnityWebRequest.Get("https://henka.test/APIs/get_appointment.php?userName=" + userName);
+        UnityWebRequest request = UnityWebRequest.Get("https://target_Ip/api/get_appointment.php?userName=" + userName);
 
         yield return request.SendWebRequest();
 
