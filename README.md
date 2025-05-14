@@ -21,14 +21,14 @@ This project is a **barbershop appointment system** built using **Unity** for th
 ### 1. Backend (PHP & MySQL)
 
 1. Install **XAMPP** and start Apache + MySQL.
-2. Place the `/APIs` folder inside `htdocs`.
+2. Place the `/api` folder inside `htdocs`.
 3. Import `berberrandevusistemi.sql` into phpMyAdmin to create the database.
 4. Update the `db_connection.php` file with your database credentials if needed.
 
 ### 2. Frontend (Unity)
 
-1. Open `/UnityApp` in Unity Editor.
-2. Make sure the IP address in API URLs points to your local server IP (e.g., `http://192.168.1.100/APIs/...`).
+1. Open `/BarberAppointment` in Unity Editor.
+2. Make sure the IP address in API URLs points to your local server IP (e.g., `http://192.168.1.100/api/...`).
 3. Run the app in Unity or build it for Android/Windows.
 
 
