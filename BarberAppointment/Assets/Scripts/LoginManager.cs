@@ -163,7 +163,7 @@ public class LoginManager : MonoBehaviour
         form.AddField("password", password);
         form.AddField("phoneNum", phoneNum);
 
-        UnityWebRequest request = UnityWebRequest.Post("https://henka.test/APIs/signUp.php", form);                       // Veritabanı adresimiz.
+        UnityWebRequest request = UnityWebRequest.Post("https://target_Ip/api/signUp.php", form);                       // Veritabanı adresimiz.
 
         yield return request.SendWebRequest();
 
@@ -252,7 +252,7 @@ public class LoginManager : MonoBehaviour
         form.AddField("userName", userName);
         form.AddField("password", password);
 
-        UnityWebRequest request = UnityWebRequest.Post("https://henka.test/APIs/login.php", form);
+        UnityWebRequest request = UnityWebRequest.Post("https://target_Ip/api/login.php", form);
         yield return request.SendWebRequest();
 
         if (request.result == UnityWebRequest.Result.Success)
