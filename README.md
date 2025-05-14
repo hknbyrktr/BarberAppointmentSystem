@@ -22,7 +22,6 @@ Of course there are deficiencies in this project that we did in about a week. Yo
 1. Install **XAMPP** and start Apache + MySQL.
 2. Place the `/api` folder inside `htdocs`.
 3. Import `berberrandevusistemi.sql` into phpMyAdmin to create the database.
-4. Update the `db_connection.php` file with your database credentials if needed.
 
 ### 2. Frontend (Unity)
 
