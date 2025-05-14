@@ -4,11 +4,7 @@
 
 This project is a **barbershop appointment system** built using **Unity** for the front-end and **MySQL + PHP** for the back-end. Users can view and book appointments, while barbers can manage their schedules.
 
----
-
 ## 📁 Project Structure
-
-
 ---
 
 ## 🔧 Technologies Used
@@ -19,10 +15,9 @@ This project is a **barbershop appointment system** built using **Unity** for th
 - XAMPP (local server for testing)
 - Postman (for API testing)
 
----
 
 ## 🚀 How to Run
-
+---
 ### 1. Backend (PHP & MySQL)
 
 1. Install **XAMPP** and start Apache + MySQL.
@@ -36,7 +31,6 @@ This project is a **barbershop appointment system** built using **Unity** for th
 2. Make sure the IP address in API URLs points to your local server IP (e.g., `http://192.168.1.100/APIs/...`).
 3. Run the app in Unity or build it for Android/Windows.
 
----
 
 ## 🧪 Features
 
@@ -46,18 +40,15 @@ This project is a **barbershop appointment system** built using **Unity** for th
 - Available times shown dynamically
 - Admin-side user and barber control (optional)
 
----
 
 ## 📸 Screenshots
 
 (Add 2–3 screenshots of the Unity UI or database/API in action)
 
----
 
 ## 📄 License - MIT
 
 This project is open source and free to use.
 
----
 
 
