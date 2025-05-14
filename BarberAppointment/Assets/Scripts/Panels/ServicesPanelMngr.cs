@@ -80,7 +80,7 @@ public class ServicesPanelMngr : MonoBehaviour
         form.AddField("services", serviceList);
 
 
-        UnityWebRequest request = UnityWebRequest.Post("https://henka.test/APIs/update_appointment.php", form);
+        UnityWebRequest request = UnityWebRequest.Post("https://target_Ip/api/update_appointment.php", form);
 
         yield return request.SendWebRequest();
 
