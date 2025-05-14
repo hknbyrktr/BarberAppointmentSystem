@@ -43,14 +43,14 @@ Of course there are deficiencies in this project that we did in about a week. Yo
 
 ## 📸 Screenshots
 
-![Entrance](Screenshots/Entrance.jpg)<img src="Screenshots/Entrance.jpg" alt="Entrance" width="400"/>
-![Barbers](Screenshots/Barbers.jpg)
-![Appointment Dates](Screenshots/AppointmentDates.jpg)
-![Services](Screenshots/Services.jpg)
-![Comments For Barber](Screenshots/CommentsForBarber.jpg)
-![Make Comment For Barber](Screenshots/MakeComment.jpg)
-![ProfileInfo](Screenshots/ProfileInfo.jpg)
-![User Appointments](Screenshots/MyAppointment.jpg)
+<img src="Screenshots/Entrance.jpg" alt="Entrance" width="400"/>
+<img src="Screenshots/Barbers.jpg" alt="Entrance" width="400"/>
+<img src="Screenshots/AppointmentDates.jpg" alt="Entrance" width="400"/>
+<img src="Screenshots/Services.jpg" alt="Entrance" width="400"/>
+<img src="Screenshots/CommentsForBarber.jpg" alt="Entrance" width="400"/>
+<img src="Screenshots/MakeComment.jpg" alt="Entrance" width="400"/>
+<img src="Screenshots/ProfileInfo.jpg" alt="Entrance" width="400"/>
+<img src="Screenshots/MyAppointment.jpg" alt="Entrance" width="400"/>
 
 ## 📄 License - MIT
 
