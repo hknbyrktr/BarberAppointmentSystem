@@ -7,7 +7,6 @@ I did the front-end (Unity) of this project given by our university professor, m
 Of course there are deficiencies in this project that we did in about a week. You can reach the details below or by downloading. Good luck.
 
 ## 📁 Project Structure
----
 
 ## 🔧 Technologies Used
 
@@ -18,7 +17,6 @@ Of course there are deficiencies in this project that we did in about a week. Yo
 
 
 ## 🚀 How to Run
----
 ### 1. Backend (PHP & MySQL)
 
 1. Install **XAMPP** and start Apache + MySQL.
