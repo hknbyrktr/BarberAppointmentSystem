@@ -43,7 +43,7 @@ Of course there are deficiencies in this project that we did in about a week. Yo
 
 ## 📸 Screenshots
 
-![Entrance](Screenshots/Entrance.jpg)
+![Entrance](Screenshots/Entrance.jpg)<img src="Screenshots/Entrance.jpg" alt="Entrance" width="400"/>
 ![Barbers](Screenshots/Barbers.jpg)
 ![Appointment Dates](Screenshots/AppointmentDates.jpg)
 ![Services](Screenshots/Services.jpg)
