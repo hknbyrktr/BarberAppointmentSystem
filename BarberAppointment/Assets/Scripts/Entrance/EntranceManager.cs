@@ -51,7 +51,7 @@ public class EntranceManager: MonoBehaviour
     IEnumerator CheckConnectionCoroutine()
     {
         
-        UnityWebRequest request = UnityWebRequest.Get("https://henka.test/APIs/signUp.php");                    // Herhangi bir dosyaya baglanmaya calismamiz baglanti kontrolu icin yeterli.
+        UnityWebRequest request = UnityWebRequest.Get("https://target_Ip/api/signUp.php");                    // Herhangi bir dosyaya baglanmaya calismamiz baglanti kontrolu icin yeterli.
 
         yield return request.SendWebRequest();
 
