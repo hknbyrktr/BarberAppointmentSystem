@@ -26,27 +26,13 @@ public class ServicesPanelMngr : MonoBehaviour
     }
 
 
-
-    public List<int> AddedServices()
+    public void ConfirmAppointment_Btn()
     {
-
         for (int i = 0; i < this.transform.GetChild(0).childCount; i++)
         {
             if (this.transform.GetChild(0).GetChild(i).GetChild(0).GetComponent<Toggle>().isOn)
-            {
                 services.Add(i + 1);                                                                                                  // 0. cocugun ID' si 1...
-            }
-
         }
-
-        return services;
-    }
-
-
-
-    public void ConfirmAppointment_Btn()
-    {
-        services = AddedServices();
 
         if (services.Count > 0)
         {
