@@ -43,14 +43,14 @@ Of course there are deficiencies in this project that we did in about a week. Yo
 
 ## 📸 Screenshots
 
-<img src="Screenshots/Entrance.jpg" alt="Entrance" width="400"/>
-<img src="Screenshots/Barbers.jpg" alt="Entrance" width="400"/>
-<img src="Screenshots/AppointmentDates.jpg" alt="Entrance" width="400"/>
-<img src="Screenshots/Services.jpg" alt="Entrance" width="400"/>
-<img src="Screenshots/CommentsForBarber.jpg" alt="Entrance" width="400"/>
-<img src="Screenshots/MakeComment.jpg" alt="Entrance" width="400"/>
-<img src="Screenshots/ProfileInfo.jpg" alt="Entrance" width="400"/>
-<img src="Screenshots/MyAppointment.jpg" alt="Entrance" width="400"/>
+<img src="Screenshots/Entrance.jpg" alt="Entrance.jpg" width="400"/>
+<img src="Screenshots/Barbers.jpg" alt="Barbers.jpg" width="400"/>
+<img src="Screenshots/AppointmentDates.jpg" alt="AppointmentDates.jpg" width="400"/>
+<img src="Screenshots/Services.jpg" alt="Services.jpg" width="400"/>
+<img src="Screenshots/CommentsForBarber.jpg" alt="CommentsForBarber.jpg" width="400"/>
+<img src="Screenshots/MakeComment.jpg" alt="MakeComment.jpg" width="400"/>
+<img src="Screenshots/ProfileInfo.jpg" alt="ProfileInfo.jpg" width="400"/>
+<img src="Screenshots/MyAppointment.jpg" alt="MyAppointment.jpg" width="400"/>
 
 ## 📄 License - MIT
 
